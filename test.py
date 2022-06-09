@@ -1,9 +1,9 @@
-# def hello():
-#     print("hello world")
+def hello():
+    print("hello world")
+    return "hello"
 
-# print(hello())
+print(hello())
 
 
-# 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
 
 
